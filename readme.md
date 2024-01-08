@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Coding Infinity
+- 👋 Hi, I’m Coding Spider
 - 👀 I’m interested in everything 
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on 1001
+- 💞️ I’m looking to collaborate with 404
 - 📫 How to reach me : no way in universe to reach me
 
 <!---
